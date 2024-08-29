@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Zaki</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Graduation Project](https://career-guidance-network-urhx.vercel.app/)
+- 🔭 I’m currently working on [Instagram Clone](https://github.com/MohamedZakidev/Insta-Clone)
 
 - 🌱 I’m currently learning **React.js**
 
