@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Zaki</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Instagram Clone](https://github.com/MohamedZakidev/Insta-Clone)
+- 🔭 I’m currently working on [Stack overflow clone](https://github.com/MohamedZakidev/Dev-overflow)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js, TypeScript, TailwindCss**
 
 - 💬 Ask me about **React**
 
